@@ -89,7 +89,7 @@ $(document).ready(function () {
     tableBody.append(row);
   });
   
-  //   boton toggle icon list y grid
+  //   boton toggle icon list y grid 
   $(".btn-toggle").on('click', function () {
     $(this).find(".btn").toggleClass("active");
 
